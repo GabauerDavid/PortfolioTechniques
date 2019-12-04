@@ -1,5 +1,5 @@
 
-### Kroner, KF., and NG, VK (1998)
+### KRONER, KF., AND NG, VK (1998)
 ### MODELING ASYMMETRIC COMOVEMENTS OF ASSET RETURNS
 ### REVIEW OF FINANCIAL STUDIES
 ### replicated by David Gabauer (https://sites.google.com/view/davidgabauer/contact-details)
